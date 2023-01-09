@@ -4,8 +4,8 @@
 
 1. [smallworld](#smallworld)
 2. [Positioner](#Positioner)
-3. [SoCloudy](#SoCloudy)
-4. [Movie Manager](#Movie-Manager)
+3. [SoCloudy](#socloudy)
+4. [Movie Manager](#movie-manager)
 
 ## smallworld
 An application for readers and writers which allows users to write short stories. The catch is that you can only write one chapter of a story, the rest of the chapters are written by other random users.
