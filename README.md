@@ -11,6 +11,7 @@
 An application for readers and writers which allows users to write short stories. The catch is that you can only write one chapter of a story, the rest of the chapters are written by other random users.
 
 Tech stack: UIKit & SwiftUI | GCD | Firebase | MVC
+<span style="color:gray">**Tech stack**</span>: UIKit & SwiftUI, GCD, Firebase, MVC
 
 [Back to Contents](#contents)
 
