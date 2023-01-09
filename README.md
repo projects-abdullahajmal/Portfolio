@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio!
+# Welcome to my GitHub Project Portfolio!
 
 # Contents
 
